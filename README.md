@@ -13,7 +13,7 @@
  * BEACON_INTERVAL_MINUTES after power-up.
  * Always have an antenna connected while the
  * Bitx40 is powered.
- * Build: Arduino 1.8.2, Eherkit Si5351A Library v2.0.3
+ * Build: Arduino 1.8.2, Etherkit Si5351A Library v2.0.3
  * Etherkit JTEncode Library v1.1.3
  * 
 // Permission is hereby granted, free of charge, to any person obtaining
