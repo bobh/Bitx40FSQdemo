@@ -3,6 +3,7 @@
 /*
  * FSQ Transmit Beacon
  * Modified for Bitx40 Hardware by Robert Hinrichs wm6h
+ * Direct modulation of the Si5351, no external computer/audio interface
  * Uses the ND6T CW Mod to the Bitx40
  * http://bitxhacks.blogspot.com/2017/02/putting-bitx-raduino-on-cw.html
  * Configured for FSQ 2 Baud
