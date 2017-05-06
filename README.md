@@ -39,5 +39,4 @@
 Bitx40FSQdemo is a MEPT (manned experimental propagation transmitter), which means that you should never leave the control of it unattended.
 
 Happy Birthday Beacon to Farhan: https://youtu.be/YXYuV_NYfxY
-/*
- 
+*/
